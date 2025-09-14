@@ -4,4 +4,5 @@
 Version: G770FXXU8HWF5
 ---
 > Kernel: 4.14.190 (Non-GKI)  
-KernelSU-Next Support: https://github.com/Androser420/sm-g770f-kernel/tree/ksun
+KernelSU-Next Version: [v1.0.9](https://github.com/KernelSU-Next/KernelSU-Next/releases/tag/v1.0.9)  
+SuSFS Support: Soon
